@@ -1,0 +1,25 @@
+{
+  "name": "erc20-batch-transfer",
+  "version": "1.0.0",
+  "description": "Helper that makes Batch ERC20 Transfer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frankwei98/ERC20-Batch-Transfer.git"
+  },
+  "author": "Frank Wei",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/frankwei98/ERC20-Batch-Transfer/issues"
+  },
+  "homepage": "https://github.com/frankwei98/ERC20-Batch-Transfer#readme",
+  "dependencies": {
+    "ethers": "^5.0.31"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.31"
+  }
+}
